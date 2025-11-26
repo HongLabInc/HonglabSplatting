@@ -1,5 +1,9 @@
 # 가우시안 스플래팅으로 당장 해볼 수 있는 것들
 
+2025년 11월 기준으로 지금 당장 사용해볼 수 있는 것들입니다. 
+블랜더 등과 같은 패키지 소프트웨어를 사용하는 방법은 대부분 유튜브에서 튜토리얼 몇 개 찾아보시면 어렵지 않게 시작하실 수 있는 수준입니다.
+일부 중요한 오픈소스들은 부록 B에서 코드 레벨에서 해설해드립니다.
+
 ## 영상 제작
 
 [블랜더(Blender) 4D 예제](https://lnkd.in/gGN8A_bf)
@@ -41,11 +45,6 @@
 [Luma AI Unreal Engine Plugin](https://lumalabs.ai/ue)
 [KIRI Engine](https://www.kiriengine.app/)
 
-## 정보 리소스
-
-[Awesome 3D Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
-[Radiance Fields](https://radiancefields.com/)
-
 ## 훈련
 
 [Gaussian Splatting (INRIA)](https://github.com/graphdeco-inria/gaussian-splatting)
@@ -54,3 +53,8 @@
 [Nerfstudio](https://docs.nerf.studio/)
 [Polycam](https://poly.cam/)
 [jawset postshot](https://www.jawset.com/)
+
+## 정보 리소스
+
+[Awesome 3D Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
+[Radiance Fields](https://radiancefields.com/)
