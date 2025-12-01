@@ -115,3 +115,9 @@
 [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://xpandora.github.io/PhysGaussian/)
 
 [pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction](https://github.com/dcharatan/pixelsplat)
+
+## 10. 추가
+
+[A2O MAY 공연 영상](https://youtu.be/jdm_uPQtzs0?si=1Z2NLvTf2V94bR0S)에 4DGS가 사용되었다고 합니다.
+
+[4D Gaussian Videos with Motion Layering](https://turandai.github.io/projects/4d_gaussian_video/)
