@@ -1,3 +1,7 @@
+<a href='https://honglab.ai'><p style="text-align:center;"><img src='https://lh3.googleusercontent.com/lY3ySXooSmwsq5r-mRi7uiypbo0Vez6pmNoQxMFhl9fmZJkRHu5lO2vo7se_0YOzgmDyJif9fi4_z0o3ZFdwd8NVSWG6Ea80uWaf3pOHpR4GHGDV7kaFeuHR3yAjIJjDgfXMxsvw=w2400'  class="center" width="100%" height="100%"/></p></a>
+
+<center><em>Content Copyright by HongLab, Inc.</em></center>
+
 # 가우시안 스플래팅으로 당장 해볼 수 있는 것들
 
 2025년 11월 기준으로 지금 당장 사용해볼 수 있는 것들입니다. 

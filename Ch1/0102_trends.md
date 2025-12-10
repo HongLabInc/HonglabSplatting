@@ -1,3 +1,7 @@
+<a href='https://honglab.ai'><p style="text-align:center;"><img src='https://lh3.googleusercontent.com/lY3ySXooSmwsq5r-mRi7uiypbo0Vez6pmNoQxMFhl9fmZJkRHu5lO2vo7se_0YOzgmDyJif9fi4_z0o3ZFdwd8NVSWG6Ea80uWaf3pOHpR4GHGDV7kaFeuHR3yAjIJjDgfXMxsvw=w2400'  class="center" width="100%" height="100%"/></p></a>
+
+<center><em>Content Copyright by HongLab, Inc.</em></center>
+
 # 3D 가우시안 스플래팅의 진화
 
 참고자료: [TUM AI Lecture Series - The 3D Gaussian Splatting Adventure: Past, Present, Future (George Drettakis)](https://www.youtube.com/live/DjOqkVIlEGY?si=t7QlBlTCwzZey9o-)
